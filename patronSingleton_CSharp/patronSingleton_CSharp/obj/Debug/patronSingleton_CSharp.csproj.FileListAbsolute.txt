@@ -1,0 +1,7 @@
+C:\Users\18096\source\repos\patronSingleton_CSharp\patronSingleton_CSharp\obj\Debug\patronSingleton_CSharp.csprojAssemblyReference.cache
+C:\Users\18096\source\repos\patronSingleton_CSharp\patronSingleton_CSharp\obj\Debug\patronSingleton_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\18096\source\repos\patronSingleton_CSharp\patronSingleton_CSharp\bin\Debug\patronSingleton_CSharp.exe.config
+C:\Users\18096\source\repos\patronSingleton_CSharp\patronSingleton_CSharp\bin\Debug\patronSingleton_CSharp.exe
+C:\Users\18096\source\repos\patronSingleton_CSharp\patronSingleton_CSharp\bin\Debug\patronSingleton_CSharp.pdb
+C:\Users\18096\source\repos\patronSingleton_CSharp\patronSingleton_CSharp\obj\Debug\patronSingleton_CSharp.exe
+C:\Users\18096\source\repos\patronSingleton_CSharp\patronSingleton_CSharp\obj\Debug\patronSingleton_CSharp.pdb

@@ -1,0 +1,7 @@
+C:\Users\18096\source\repos\patronComando_CSharp\patronComando_CSharp\bin\Debug\patronComando_CSharp.exe.config
+C:\Users\18096\source\repos\patronComando_CSharp\patronComando_CSharp\bin\Debug\patronComando_CSharp.exe
+C:\Users\18096\source\repos\patronComando_CSharp\patronComando_CSharp\bin\Debug\patronComando_CSharp.pdb
+C:\Users\18096\source\repos\patronComando_CSharp\patronComando_CSharp\obj\Debug\patronComando_CSharp.csprojAssemblyReference.cache
+C:\Users\18096\source\repos\patronComando_CSharp\patronComando_CSharp\obj\Debug\patronComando_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\18096\source\repos\patronComando_CSharp\patronComando_CSharp\obj\Debug\patronComando_CSharp.exe
+C:\Users\18096\source\repos\patronComando_CSharp\patronComando_CSharp\obj\Debug\patronComando_CSharp.pdb

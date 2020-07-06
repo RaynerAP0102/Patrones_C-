@@ -1,0 +1,7 @@
+C:\Users\18096\source\repos\patronFactoria_CSharp\patronFactoria_CSharp\bin\Debug\patronFactoria_CSharp.exe.config
+C:\Users\18096\source\repos\patronFactoria_CSharp\patronFactoria_CSharp\bin\Debug\patronFactoria_CSharp.exe
+C:\Users\18096\source\repos\patronFactoria_CSharp\patronFactoria_CSharp\bin\Debug\patronFactoria_CSharp.pdb
+C:\Users\18096\source\repos\patronFactoria_CSharp\patronFactoria_CSharp\obj\Debug\patronFactoria_CSharp.csprojAssemblyReference.cache
+C:\Users\18096\source\repos\patronFactoria_CSharp\patronFactoria_CSharp\obj\Debug\patronFactoria_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\18096\source\repos\patronFactoria_CSharp\patronFactoria_CSharp\obj\Debug\patronFactoria_CSharp.exe
+C:\Users\18096\source\repos\patronFactoria_CSharp\patronFactoria_CSharp\obj\Debug\patronFactoria_CSharp.pdb
